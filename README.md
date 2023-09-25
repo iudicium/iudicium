@@ -21,3 +21,46 @@
 
 
 ### :man_technologist: About Me :
+- 🔭 I'm a software engineer who enjoys crafting both backend and frontend applications! 
+
+- ☣️ I'm deeply passionate about sculpting precise code within the realm of computers. 🧑‍💻
+
+- 🔒 I'm passionate about discovering security vulnerabilities in my free time and delving into the world of Red Teaming! 💻🌐
+
+- :mailbox: Feel free to reach me on:&nbsp;&nbsp;&nbsp;&nbsp; [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/moriartywork)
+
+  ---
+
+### :hammer_and_wrench: Languages and Tools I Work With :
+  <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="FastApi" alt="FastApi" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgresql" alt="Postgresql" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="Pytest" alt="Pytest" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original-wordmark.svg" title="Grafana" alt="Grafana" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="GO" alt="GO" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original-wordmark.svg" title="Redhat"  alt="Redhat" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+
+---
+### :chart_with_upwards_trend: My Performance Metrics
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=r00tk3y&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r00tk3y&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### 🖥️ Projects
+
+Here are some of my notable projects:
+
+1. [fastapi-Twitter](https://github.com/r00tk3y/fastapi-Twitter): Twitter-Style backend made with FastAPI.
+2. [r00tshop](https://github.com/r00tk3y/root_shop): A django-made ecommerce template for others to build upon!
+
+Feel free to explore them!
