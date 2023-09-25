@@ -13,8 +13,11 @@
   </div>
 </div>
 
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="250px"/>
+<h1 align="center">
+  hey there! i am r00tk3y
+  <img src="https://media.giphy.com/media/3owyplYLWlGFQk9mF2/giphy.gif" width="60px" style="display: inline-block;" />
 </h1>
-</div>
+
+
+
+### :man_technologist: About Me :
