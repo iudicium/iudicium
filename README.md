@@ -1,16 +1,20 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/a3SNJoR0a4ugcKi1Y9/giphy.gif" width="400"/>
+</div>
 
-<!--
-**r00tk3y/r00tk3y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="badges" align="center">
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <a href="https://t.me/moriaritywork">
+      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    </a>
+    <a href="https://www.youtube.com/channel/UCpI_auCXZ5DIDmgt7Loc3Sw">
+      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    </a>
+  </div>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="250px"/>
+</h1>
+</div>
