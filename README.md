@@ -23,7 +23,7 @@
 ### :man_technologist: About Me :
 - 🔭 I'm a software engineer who enjoys crafting both backend and frontend applications! 
 
-- ☣️ I love typing the correct comamnds  into the computer. 🧑‍💻
+- ☣️ I love typing the correct comamnds  into the computer system. 🧑‍💻
 
 - 🔒 I'm passionate about discovering security vulnerabilities in my free time and delving into the world of Red Teaming! 💻🌐
 
