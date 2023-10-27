@@ -60,7 +60,7 @@
 
 Here are some of my notable projects:
 
-1. [fastapi-Twitter](https://github.com/r00tk3y/fastapi-Twitter): Twitter-Style backend made with FastAPI.
-2. [r00tshop](https://github.com/r00tk3y/root_shop): A django-made ecommerce template for others to build upon!
+1. [fastapi-Twitter](https://github.com/pryingbytez/fastapi-Twitter): Twitter-Style backend made with FastAPI.
+2. [r00tshop](https://github.com/pryingbytez/root_shop): A django-made ecommerce template for others to build upon!
 
 Feel free to explore them!
