@@ -51,8 +51,8 @@
 
 ---
 ### :chart_with_upwards_trend: My Performance Metrics
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=r00tk3y&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r00tk3y&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pryingbytez&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pryingbytez&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
