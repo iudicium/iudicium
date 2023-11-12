@@ -14,7 +14,7 @@
 </div>
 
 <h1 align="center">
-  hey there! i am r00tk3y
+  
   <img src="https://media.giphy.com/media/3owyplYLWlGFQk9mF2/giphy.gif" width="60px" style="display: inline-block;" />
 </h1>
 
