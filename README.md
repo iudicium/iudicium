@@ -14,7 +14,7 @@
 </div>
 
 <h1 align="center">
-  hi there.
+  hi there!
   <img src="https://media.giphy.com/media/3owyplYLWlGFQk9mF2/giphy.gif" width="60px" style="display: inline-block;" />
 </h1>
 
