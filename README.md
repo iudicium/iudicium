@@ -51,8 +51,8 @@
 
 ---
 ### :chart_with_upwards_trend: My Performance Metrics
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pryingbytez&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pryingbytez&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iudicium&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iudicium&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -60,7 +60,7 @@
 
 Here are some of my notable projects:
 
-1. [fastapi-Twitter](https://github.com/pryingbytez/fastapi-Twitter): Twitter-Style backend made with FastAPI.
-2. [r00tshop](https://github.com/pryingbytez/root_shop): A django-made ecommerce template for others to build upon!
+1. [fastapi-Twitter](https://github.com/iudicium/fastapi-Twitter): Twitter-Style backend made with FastAPI.
+2. [r00tshop](https://github.com/iudicium/root_shop): A django-made ecommerce template for others to build upon!
 
 Feel free to explore them!
