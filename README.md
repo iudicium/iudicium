@@ -59,8 +59,8 @@
 ### 🖥️ Projects
 
 Here are some of my notable projects:
-
-1. [fastapi-Twitter](https://github.com/iudicium/fastapi-Twitter): Twitter-Style backend made with FastAPI.
-2. [r00tshop](https://github.com/iudicium/root_shop): A django-made ecommerce template for others to build upon!
+1. [Prying-Deep](https://github.com/iudicium/pryingdeep): A dark web OSINT tool
+2. [fastapi-Twitter](https://github.com/iudicium/fastapi-Twitter): Twitter-Style backend made with FastAPI.
+3. [r00tshop](https://github.com/iudicium/root_shop): A django-made ecommerce template for others to build upon!
 
 Feel free to explore them!
