@@ -27,7 +27,7 @@
 
 - 🔒 I'm passionate about discovering security vulnerabilities in my free time and delving into the world of Red Teaming! 💻🌐
 
-- :mailbox: Feel free to reach me on:&nbsp;&nbsp;&nbsp;&nbsp; [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/moriartywork)
+- :mailbox: Feel free to reach me on:&nbsp;&nbsp;&nbsp;&nbsp; [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/moriaritywork)
 
   ---
 
