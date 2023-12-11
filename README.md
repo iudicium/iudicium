@@ -20,7 +20,7 @@
 
 
 
-### 👨‍💻 About Me :
+### 👨‍💻 About Me:
 - 🔭 I'm a software engineer who enjoys crafting both backend and frontend applications! 
 
 - ☣️ I love typing the correct comamnds  into the computer system. 🧑‍💻
@@ -31,7 +31,7 @@
 
   ---
 
-### 🛠️ Languages and Tools I Work With :
+### 🛠️ Languages and Tools I Work With:
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="FastApi" alt="FastApi" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
