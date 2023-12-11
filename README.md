@@ -21,9 +21,9 @@
 
 
 ### 👨‍💻 About Me:
-- 🔭 I'm a software engineer who enjoys crafting both backend and frontend applications! 
+- 🔭 I specialize in crafting API infrastucture, but can also build frontend applications
 
-- ☣️ I love typing the correct comamnds  into the computer system. 🧑‍💻
+- ☣️ I can type the right words into your computer 🧑‍💻
 
 - 🔒 I'm passionate about discovering security vulnerabilities in my free time and delving into the world of Red Teaming! 💻🌐
 
