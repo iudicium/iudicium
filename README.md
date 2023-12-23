@@ -22,13 +22,8 @@
 
 ### 👨‍💻 About Me:
 
-- You can hire me for 120$/h. Please reach out on `telegram`
-  
-- 🔭 I specialize in crafting API infrastucture, but can also build frontend applications
-
-- ☣️ I can type the right words into your computer 🧑‍💻
-
-- 🔒 I'm passionate about discovering security vulnerabilities in my free time and delving into the world of Red Teaming! 💻🌐
+- You can hire me for 120$/h. I would love to work on a gig.
+- 🔒 I'm passionatie about the InfoSec world in my spare time, I love to discover security vulnerabilities 💻🌐
 
 - :mailbox: Feel free to reach me on:&nbsp;&nbsp;&nbsp;&nbsp; [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/moriaritywork)
 
