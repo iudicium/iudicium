@@ -22,8 +22,8 @@
 
 ### 👨‍💻 About Me:
 
- - You can hire me for 120$/h. Please reach out on *telegram*
-,.
+- You can hire me for 120$/h. Please reach out on `telegram`
+  
 - 🔭 I specialize in crafting API infrastucture, but can also build frontend applications
 
 - ☣️ I can type the right words into your computer 🧑‍💻
