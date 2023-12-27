@@ -66,6 +66,7 @@ Feel free to explore them!
 ### Support 🤝
 If you find my work useful and want to donate some money, you can support me by sending some monero:
 48bEkvkzP3W4SGKSJAkWx2V8s4axCKwpDFf7ZmwBawg5DBSq2imbcZVKNzMriukuPqjCyf2BSax1D3AktiUq5vWk1satWJt
+
 Thank you!
 
 
