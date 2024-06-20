@@ -4,9 +4,6 @@
 
 <div id="badges" align="center">
   <div style="display: flex; flex-direction: column; align-items: center;">
-    <a href="https://t.me/moriaritywork">
-      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-    </a>
     <a href="https://www.youtube.com/channel/UCpI_auCXZ5DIDmgt7Loc3Sw">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
@@ -24,8 +21,6 @@
 
 - You can hire me for 120$/h. I would love to work on a gig.
 - 🔒 I'm passionatie about the InfoSec world in my spare time, I love to discover security vulnerabilities 💻🌐
-
-- :mailbox: Feel free to reach me on:&nbsp;&nbsp;&nbsp;&nbsp; [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/moriaritywork)
 
   ---
 
