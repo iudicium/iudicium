@@ -18,9 +18,7 @@
 
 
 ### 👨‍💻 About Me:
-
-- You can hire me for 120$/h. I would love to work on a gig.
-- 🔒 I'm passionatie about the InfoSec world in my spare time, I love to discover security vulnerabilities 💻🌐
+  - Back to making 
 
   ---
 
